@@ -11,7 +11,7 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 | Question 2      | Your answers to the question                      | 25%   |
 | Question 3      | Your answers to the question                      | 25%   |
 
-## Name
+## Name: Allan and Razma
 
 ## Summary
 
